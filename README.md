@@ -6,7 +6,7 @@ __Root-Finder__ is a header-only univariate polynomial solver, which finds/count
 0. The solver is a __C++11__ [__header-only__](https://en.wikipedia.org/wiki/Header-only) library, which is highly optimized on the 
 premise of __instruction set independence__.
 
-1. It only contains one header file "[__root_finder.hpp__](https://github.com/ZhepeiWang/Root-Finder/blob/master/root_finder/include/root_finder/root_finder.hpp)".
+1. It only contains one header file "[__root_finder.hpp__](https://github.com/ZJU-FAST-Lab/Root-Finder/blob/master/root_finder/include/root_finder/root_finder.hpp)".
 
 2. The interface only contains two functions. One is for __roots finding__ while the other one is for __roots counting__.
 
